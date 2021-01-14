@@ -1,3 +1,4 @@
+include ':shortcutmanager'
 include ':transition'
 include ':app'
 rootProject.name = "AmazingInteractiveDesign"

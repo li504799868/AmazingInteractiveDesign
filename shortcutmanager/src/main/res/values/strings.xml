@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShortcutManager</string>
+    <string name="main2">Main2</string>
+
+    <string name="compose_shortcut_short_label1">shortcut_short_label1</string>
+    <string name="compose_shortcut_long_label1">shortcut_long_label1</string>
+    <string name="compose_disabled_message1">disabled_message1</string>
+</resources>
